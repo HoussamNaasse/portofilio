@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './Navbar'
-import Me from '../img/me2.jpeg'
+import Me from '../img/me2.JPG'
 import { LinkedIn,GitHub,Facebook, Mail } from '@mui/icons-material'
 import RoomIcon from '@mui/icons-material/Room';
 import GoogleIcon from '@mui/icons-material/Google';
@@ -16,7 +16,7 @@ const Main = () => {
       <div className="Content">
         <div className="left">
             <div className="introduction">
-            Bonjour, je suis <span>Houssame Naasse</span>, un développeur Full Stack passionné basé à Marrakech
+            Bonjour, je suis <span>Houssame Naasse</span>, un futur ingenieur Full Stack passionné basé à Marrakech
                 <RoomIcon className='Marker'/>
             </div>
             <div className="followme">

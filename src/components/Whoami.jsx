@@ -10,7 +10,8 @@ import Nodejs from '../img/nodejs.svg'
 import Spring from '../img/spring.svg'
 import Mongo from '../img/mongo.svg'
 import Express from '../img/express.svg'
-import Me from '../img/me3.jpeg'
+import Next from '../img/next.svg'
+import Me from '../img/me3.JPG'
 const Whoami = () => {
   return (
     <section className='Whoami' id="whoami">
@@ -41,6 +42,7 @@ const Whoami = () => {
               <img src={Nodejs} alt="" />
               <img src={Spring} alt="" />
               <img src={Express} alt="" />
+              <img src={Next} alt="" />
             </div>
           </div>
         </div>
